@@ -1,0 +1,6 @@
+{
+  "version": "2026.6.3",
+  "download_url": "https://github.com/superborat75-lab/facturo-ai-releases/releases/download/v2026.6.3/FacturoAISetup.exe",
+  "sha256": "31C638C5C26F37044A3F379E952ABA17699B279E822E07871E1DC0D2405C375C",
+  "notes": "Adds production backup, restore and verified update tooling."
+}
